@@ -71,3 +71,19 @@ img {
     border: solid darkcyan 1px;
     border-radius: 5px;
 }
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: solid darkcyan 1px;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+.fondotabla {
+    background-color: rgb(221, 232, 232);
+
+}
